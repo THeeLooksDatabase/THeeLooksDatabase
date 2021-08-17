@@ -25,11 +25,9 @@
   
   ##
   <h1 align="left">DEV TEAM</h1>
-<div> 
  
   ![Snake animation](https://github.com/THeeLooksDatabase/THeeLooksDatabase/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 - Zaion Felippe Gomes Arruda (Scrum Master) - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
 - Victor Araujo Paula Cavichioli (PO) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
